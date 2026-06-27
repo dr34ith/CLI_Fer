@@ -119,4 +119,4 @@ cli_fer hashcat
 ```
 ---
 [![Created by Dreaith](https://img.shields.io/badge/Created%20by-Dreaith-purple.svg)]()
-[![Date](https://img.shields.io/badge/Date-2025--01--11-lightgrey.svg)]()
+[![Date](https://img.shields.io/badge/Date-2026-lightgrey.svg)]()
